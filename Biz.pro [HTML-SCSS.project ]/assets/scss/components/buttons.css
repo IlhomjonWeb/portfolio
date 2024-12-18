@@ -1,0 +1,23 @@
+.btn-info {
+  color: #000;
+  text-align: right;
+  font-family: Airbnb Cereal App;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 14px; /* 100% */
+  margin-right: 25px;
+}
+
+.btn-dark {
+  display: inline-flex;
+  height: 55px;
+  padding: 0px 30px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  color: #fff;
+  background: var(--Primary, #060640);
+  cursor: pointer;
+}/*# sourceMappingURL=buttons.css.map */
