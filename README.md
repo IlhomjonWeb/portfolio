@@ -10,11 +10,11 @@ Ilhomjon</a></h1>
 
 - 🔭 Weather App: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">VueJs Weather app for Cities</a>
 
-- 🔭 AB Kross App: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">VueJs app with local JSON </a>
+- 🔭 AB Kross App: <a href="https://67ebbb4f260534195fa81dd8--jazzy-buttercream-c01a69.netlify.app/" target="_blank">VueJs app with local JSON </a>
 
-- 🔭 Vue Job Project: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">Listing Vuejs project with local JSON </a>
+- 🔭 Vue Job Project: <a href="https://magical-hotteok-8b1a03.netlify.app" target="_blank">Listing Vuejs project with local JSON </a>
 
-- 🔭 Biz Pro website: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">HTML SCSS Gulp </a>
+- 🔭 Biz Pro website: <a href="https://67ebbc163dff1e1907d27b3f--sparkly-taffy-4096e6.netlify.app/" target="_blank">HTML SCSS Gulp </a>
 
 - 🌱 I’m learned VueJS and did that provided projects using this website <a href="https://www.vuemastery.com/" target="blank">Path from Junior to Advanced VueJS 3.0</a>
 
