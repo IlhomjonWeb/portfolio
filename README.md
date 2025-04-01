@@ -8,13 +8,13 @@ Ilhomjon</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Weather App: <a href="https://tomato-teodora-89.tiiny.site/" target="blank">VueJs Weather app for Cities</a>
+- 🔭 Weather App: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">VueJs Weather app for Cities</a>
 
-- 🔭 AB Kross App: <a href="https://tomato-teodora-89.tiiny.site/" target="blank">VueJs app with local JSON </a>
+- 🔭 AB Kross App: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">VueJs app with local JSON </a>
 
-- 🔭 Vue Job Project: <a href="https://tomato-teodora-89.tiiny.site/" target="blank">Listing Vuejs project with local JSON </a>
+- 🔭 Vue Job Project: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">Listing Vuejs project with local JSON </a>
 
-- 🔭 Biz Pro website: <a href="https://tomato-teodora-89.tiiny.site/" target="blank">HTML SCSS Gulp </a>
+- 🔭 Biz Pro website: <a href="https://tomato-teodora-89.tiiny.site/" target="_blank">HTML SCSS Gulp </a>
 
 - 🌱 I’m learned VueJS and did that provided projects using this website <a href="https://www.vuemastery.com/" target="blank">Path from Junior to Advanced VueJS 3.0</a>
 
